@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:cache="http://www.springframework.org/schema/cache"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/cache
+       http://www.springframework.org/schema/cache/spring-cache.xsd">
+
+    <context:component-scan base-package="account,cache"/>
+
+    <context:annotation-config/>
+
+    <cache:annotation-driven cache-manager="redisCacheManager"/>
+    <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <property name="locations">
+            <list>
+                <value>classpath:redis.properties</value>
+            </list>
+        </property>
+    </bean>
+    <!-- 配置JedisPoolConfig实例 -->
+    <bean id="poolConfig" class="redis.clients.jedis.JedisPoolConfig">
+        <!-- maxIdle最大空闲连接数 -->
+        <property name="maxIdle" value="${redis.maxIdle}"/>
+        <!-- maxTotal最大连接数 -->
+        <property name="maxTotal" value="${redis.maxActive}"/>
+        <!-- maxWaitMillis获取连接时的最大等待毫秒数,小于零表示阻塞不确定的时间,默认为-1 -->
+        <property name="maxWaitMillis" value="${redis.maxWait}"/>
+        <!-- testOnBorrow在获取连接的时是否检查有效性 -->
+        <property name="testOnBorrow" value="${redis.testOnBorrow}"/>
+    </bean>
+    <!-- 配置JedisConnectionFactory -->
+    <bean id="jedisConnectionFactory" class="org.springframework.data.redis.connection.jedis.JedisConnectionFactory">
+        <!-- hostName Redis主机名，默认是localhost -->
+        <property name="hostName" value="${redis.host}"/>
+        <!-- port Redis提供服务的端口-->
+        <property name="port" value="${redis.port}"/>
+        <!-- password Redis认证密码 -->
+        <property name="password" value="${redis.pass}"/>
+        <!-- database 连接工厂使用到的数据库索引，默认是0 -->
+        <property name="database" value="${redis.dbIndex}"/>
+        <!-- poolConfig 连接池配置 -->
+        <property name="poolConfig" ref="poolConfig"/>
+    </bean>
+    <!-- 配置RedisTemplate -->
+    <bean id="redisTemplate" class="org.springframework.data.redis.core.RedisTemplate">
+        <property name="connectionFactory" ref="jedisConnectionFactory"/>
+    </bean>
+    <!-- 配置RedisCacheManager -->
+    <bean id="redisCacheManager" class="cache.SpringRedisCacheManager">
+        <constructor-arg name="redisOperations" ref="redisTemplate"/>
+        <property name="defaultExpiration" value="${redis.expiration}"/>
+    </bean>
+
+</beans>
