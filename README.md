@@ -1,0 +1,2 @@
+# springCache
+cacheDuration
