@@ -2,7 +2,7 @@ import account.AccountServiceCache;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * Created by Qiu,Yibo on 2016/11/30.
+ * Created by BiColorCat on 2016/11/30.
  */
 public class TestCache extends BaseUnit {
 

@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/TestCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/Meow/src/test/java/BaseView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/Meow/src/test/java/Parameter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/Meow/src/test/java/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/Meow/src/test/java/TestCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/Meow/src/test/java/TestLambda.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/Meow/src/test/java/TestThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ggj/ggj-redis/src/main/java/com/ggj/redis/SpringRedisCacheManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs-timer/src/main/java/com/ygg/timer/dao/ProductDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs-timer/src/main/java/com/ygg/timer/job/SearchJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/cps-h5/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/cps-h5/src/main/java/com/cps/webapp/controller/base/AbstractBaseController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/cps-h5/src/main/java/com/cps/webapp/controller/setting/CpsSettingController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/cps-h5/src/main/java/com/cps/webapp/controller/spread/CpsSpreadIncomeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/cps-h5/src/test/java/com/lm/cps/CpsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/controller/MallController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/controller/ResourceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/dao/AccountDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/dao/ShoppingCartDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/dao/TempShoppingCartDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/dao/hqbs/home/impl/GiftPackDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/listener/InitListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/service/CartTransactionServiceIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/service/impl/CartServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/service/impl/CartServiceV14Impl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/service/impl/CartTransactionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/service/impl/OrderServiceNewV13Impl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/service/impl/ProductServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/service/impl/ResourceServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/service/impl/SearchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/util/CacheConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/util/common/CommonEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/java/com/hqbs/appnative/util/common/CommonProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/resources/applicationContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/resources/mappers/AccountDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/resources/mappers/ShoppingCartDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/main/resources/weixin.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/test/cart/java/cartTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-app/src/test/resource/java/homeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/java/com/ggj/hqbs/dal/account/AccountDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/java/com/ggj/hqbs/dal/home/BannerWindowDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/java/com/ggj/hqbs/dal/home/ChannelNavigationDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/java/com/ggj/hqbs/dal/home/GiftPackDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/java/com/ggj/hqbs/dal/home/HomePageNoticeDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/java/com/ggj/hqbs/dal/home/PlateActivityDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/java/com/ggj/hqbs/dal/home/PlateActivityProductDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/java/com/ggj/hqbs/dal/newbie/NewbieBannerStatisticsDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/resources/com/hqbs/dal/mappers/account/AccountDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/resources/com/hqbs/dal/mappers/home/ChannelNavigationDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/resources/com/hqbs/dal/mappers/home/GiftPackDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/resources/com/hqbs/dal/mappers/home/HomePageNoticeDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/resources/com/hqbs/dal/mappers/home/PlateActivityDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/resources/com/hqbs/dal/mappers/home/PlateActivityProductDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/resources/com/hqbs/dal/mappers/mall/MallDaoMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-dal/src/main/resources/com/hqbs/dal/mappers/newbie/NewbieBannerStatisticsDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/controller/AbstractBaseController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/controller/CommonActivityController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/controller/ShoppingCartController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/controller/activity/ActivityNewController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/controller/dailyberserk/DailyBerserkController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/controller/mall/MallController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/controller/rank/SaleRankController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/controller/resource/HomePageController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/controller/resource/IndexController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/controller/resource/IndexNewController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/controller/wechat/WechatOauthController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/dao/dailyberserk/DailyBerserkDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/dao/dailyberserk/impl/DailyBerserkDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/dao/home/QqbsGiftPackDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/dao/home/impl/QqbsGiftPackDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/dao/impl/mybatis/ShoppingCartDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/dao/newbie/NewbieBannerStatisticsH5Dao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/dao/newbie/impl/NewbieBannerStatisticsH5DaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/entity/dailyberserk/DailyBerserkEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/interceptor/CommonInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/service/dailyberserk/DailyBerserkService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/service/dailyberserk/impl/DailyBerserkServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/service/home/impl/HomeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/service/impl/HomeAdvertisedServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/service/impl/OrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/service/impl/ResourceServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/service/impl/ShoppingCartServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/service/newbie/impl/NewbieServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/service/rank/impl/RankServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/service/search/impl/SearchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/util/CacheTimeConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/util/CacheUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/util/CommonConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/util/CommonEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/util/DateUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/java/com/ygg/webapp/util/SessionUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/resources/mapper/dailyBerserkMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/resources/yggservlet-mvc.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/homePage/dailyBerserk.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/homePage/homePage.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/homePage/homepage.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/homePage/js/dailyBerserk.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/homePage/js/requestHeader.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/hp/js/brandShare.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/hp/js/dailyBerserk.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/hp/js/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/hp/js/rankList.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/hp/js/requestHeader.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/pages/activity/addBsRanking.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/pages/activity/rankingRule.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/pages/common/brandShare.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/pages/common/navFooter.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/saleRank/salerank.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/shoppingMall/brand-detail.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/shoppingMall/fenlei.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/shoppingMall/js/brand.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/shoppingMall/js/brandShare.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/shoppingMall/js/second.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/shoppingMall/secondCategory.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/sm/fl.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/main/webapp/sm/js/second.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/test/home/dailyBerserkTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/test/java/com/ygg/webapp/service/AbstractServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/test/java/com/ygg/webapp/service/MQServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/test/java/com/ygg/webapp/service/NoticeServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/test/java/com/ygg/webapp/service/dailyBerserkTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/test/java/com/ygg/webapp/service/homeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-h5/src/test/resources/testHqbs.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/entity/home/BannerWindowEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/entity/home/ChannelNavigationEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/entity/home/GiftPackEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/entity/home/HomePageNoticeEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/entity/home/PlateActivityEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/entity/home/PlateActivityProductEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/Test/RankCategoryProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/app/homepage/BannerWindowView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/app/homepage/ChannelNavigationView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/app/homepage/GiftPackView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/app/homepage/HomePageNoticeContentView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/app/homepage/HomePageNoticeView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/app/homepage/PlateActivityRowView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/app/homepage/PlateActivityView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/app/mall/CategoryShareView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/app/mall/FirstCategoryBrandDetailView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/app/mall/FirstCategoryView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/app/mall/SecondCategoryView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/product/RankCategoryProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/CategoryRankProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/CategoryRankView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/HotRecommendProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/ProductRankView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/RankCategoryProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/RankCategoryView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/RankHotRecommendProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/RankProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/dialyberserk/DailyBerserkProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/dialyberserk/TimeLineTypeView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/dialyberserk/TimeLineView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/home/HomeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/rank/RankCategoryProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/rank/RankCategoryView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/rank/RankHotRecommendProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/rank/RankProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/rank/home/HomeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/rank/rank/RankCategoryProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/rank/rank/RankCategoryView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/rank/rank/RankHotRecommendProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-model/src/main/java/com/ggj/hqbs/model/view/web/rank/rank/RankProductView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-service-common/src/main/java/com/ggj/hqbs/service/common/home/HomeCommonService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-service-common/src/main/java/com/ggj/hqbs/service/common/home/impl/HomeCommonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-service-common/src/main/java/com/ggj/hqbs/service/common/mall/impl/MallServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-service-common/src/main/java/com/ggj/hqbs/service/common/notice/impl/NoticeCommonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-service-h5/src/main/java/com/ggj/hqbs/service/h5/withdraw/NewWithdrawalsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-service-h5/src/main/java/com/ggj/hqbs/service/h5/withdraw/impl/NewWithdrawalsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-utils/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-utils/src/main/java/com/ggj/hqbs/utils/CacheConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-utils/src/main/java/com/ggj/hqbs/utils/CacheTimeConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-utils/src/main/java/com/ggj/hqbs/utils/CommonConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-utils/src/main/java/com/ggj/hqbs/utils/DateUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-utils/src/main/java/com/ggj/hqbs/utils/cache/CacheDuration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-utils/src/main/java/com/ggj/hqbs/utils/sdk/weixin2/GetWxOrderno.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-utils/src/main/resources/redis.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/hqbs/hqbs-utils/src/main/resources/spring-cache.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/yangege/src/main/java/com/ygg/appnative/service/impl/CartServiceImplV30.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/yangege/src/main/java/com/ygg/appnative/service/impl/MallServiceImplV27.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/yangege/src/main/java/com/ygg/appnative/service/impl/OrderServiceImplV30.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/yangege/src/main/java/com/ygg/appnative/util/CacheConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/yangege/src/main/java/com/ygg/appnative/util/CacheUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/yangege/src/main/java/com/ygg/appnative/util/common/CommonEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/yangege/src/main/java/com/ygg/appnative/util/service/ResourceLogicService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/yangege/src/main/java/com/ygg/appnative/view/BrandView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/code/ControllerMappingEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/code/SaleWindowEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/controller/PictureController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/controller/qqbs/category/QqbsCategoryBannerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/controller/qqbs/homePageChannelNavigation/QqbsHomePageChannelNavigationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/controller/qqbs/homePageNotice/QqbsHomePageNoticeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/controller/qqbs/homePagePlate/HomePagePlateController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/controller/qqbs/homePagePlate/QqbsHomePagePlateActivityController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/controller/qqbs/homePagePlate/QqbsHomePagePlateActivityProductController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/controller/qqbs/homePagePlate/QqbsHomePagePlateController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/controller/qqbs/newSaleWindow/QqbsNewSaleWindowController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/controller/qqbs/rank/QqbsRankController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/category/QqbsCategoryBannerDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePageChannelNavigation/QqbsHomePageChannelNavigationDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePageChannelNavigation/impl/QqbsHomePageChannelNavigationDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePageNotice/HomePageNoticeDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePageNotice/HomePageNoticeDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePageNotice/QqbsHomePageNoticeDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePageNotice/QqbsHomePageNoticeDaoIF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePageNotice/impl/QqbsHomePageNoticeDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePagePlate/QbqsHomePagePlateDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePagePlate/QqbsHomePagePlateActivityDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePagePlate/QqbsHomePagePlateActivityProductDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePagePlate/QqbsHomePagePlateDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePagePlate/impl/QqbsHomePagePlateActivityDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePagePlate/impl/QqbsHomePagePlateActivityProductDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/homePagePlate/impl/QqbsHomePagePlateDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dao/qqbs/rank/impl/QqbsRankDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/dto/DtoBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/entity/QqbsSaleWindowEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/entity/qqbs/QqbsHomePageChannelNavigationEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/entity/qqbs/QqbsHomePageNoticeEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/entity/qqbs/QqbsHomePagePlateActivityEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/entity/qqbs/QqbsHomePagePlateActivityProductEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/entity/qqbs/QqbsHomePagePlateEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/entity/qqbs/qqbsAccountGroupEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePageChannelNavigation/QqbsHomePageChannelNavigationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePageChannelNavigation/impl/QqbsHomePageChannelNavigationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePageNotice/HomePageNoticeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePageNotice/QqbsHomePageNoticeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePageNotice/impl/HomePageNoticeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePageNotice/impl/QqbsHomePageNoticeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePagePlate/QqbsHomePagePlateActivityProductService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePagePlate/QqbsHomePagePlateActivityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePagePlate/QqbsHomePagePlateService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePagePlate/impl/QqbsHomePagePlateActivityProductServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePagePlate/impl/QqbsHomePagePlateActivityServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/homePagePlate/impl/QqbsHomePagePlateServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/newSaleWindow/impl/QqbsNewSaleWindowServcieImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/java/com/ygg/admin/service/qqbs/rank/impl/QqbsRankServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/resources/config/config-test.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/resources/mybatis/mapper/orderMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/resources/mybatis/mapper/qqbs/qqbsHomePageChannelNavigationMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/resources/mybatis/mapper/qqbs/qqbsHomePageNoticeMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/resources/mybatis/mapper/qqbs/qqbsHomePagePlateActivityMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/resources/mybatis/mapper/qqbs/qqbsHomePagePlateActivityProductMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/resources/mybatis/mapper/qqbs/qqbsHomePagePlateMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/resources/mybatis/mapper/qqbsNewSaleWindowMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/resources/spring/spring-shiro.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/index.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/js/qqbs/checkSingleProduct.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/admin/roleList.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/homePageChannelNavigation/qqbsHomePageChannelNavigation.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/homePageChannelNavigation/qqbsHomePageChannelNavigationForm.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/homePageNotice/qqbsHomePageNotice.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/homePageNotice/qqbsHomePageNoticeForm.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/homePagePlate/qqbsHomePagePlate.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/homePagePlate/qqbsHomePagePlateActivity.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/homePagePlate/qqbsHomePagePlateActivityForm.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/homePagePlate/qqbsHomePagePlateActivityProduct.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/homePagePlate/qqbsHomePagePlateActivityProductForm.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/homePagePlate/qqbsHomePagePlateForm.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/navigation/qqbsNavigation.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/main/webapp/pages/qqbs/newSaleWindow/qqbsNewSaleWindowForm.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/src/test/java/TestPackage/qqbs/QqbsUserServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/target/yggManagerTest/index.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/newworkspace/ygg-admin/target/yggManagerTest/pages/qqbs/homePageNotice/qqbsHomePageNotice.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
