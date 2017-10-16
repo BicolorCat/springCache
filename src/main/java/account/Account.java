@@ -3,7 +3,7 @@ package account;
 import java.io.Serializable;
 
 /**
- * Created by BiColorCat on 2016/11/30.
+ * Created by BiColorCat on 2016/11s.
  */
 public class Account implements Serializable{
     private static final long serialVersionUID = 2053627932884240141L;
